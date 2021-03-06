@@ -118,6 +118,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jjongsta__"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: " https://www.linkedin.com/in/jhp77/"
 
 # Site Footer
 footer:
